@@ -10,7 +10,6 @@ Note: It is tested to run on Python 2.7.
     source .shortener/bin/activate
     pip install -r requirements.txt
     python manage.py migrate
-    python manage.py collectstatic
 
 ## Testing
 
